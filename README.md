@@ -1,6 +1,4 @@
-# Recriando-a-Interface-do-Netflix
-Clonado pagina do Netflix, usando as tecnologias HTML5, CSS3 e JavaScript.
-# Clonando Interface do Netflix
+# Recriando a Interface do Netflix
 
 ### Tecnologias Utilizadas:
 
